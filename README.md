@@ -136,5 +136,3 @@ The CNN model achieved **98.81% test accuracy** on the MNIST dataset, demonstrat
 ## Author
 
 **Sadia Afrin Suchi**
-
-Machine Learning Intern — CodeAlpha
