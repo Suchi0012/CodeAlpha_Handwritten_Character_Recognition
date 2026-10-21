@@ -84,11 +84,27 @@ The model correctly classified approximately 98.81% of the MNIST test images.
 - Scikit-learn
 - Google Colab
 
+
 ## Installation
 
-Install the required libraries:
+Clone this repository:
 
-`pip install -r requirements.txt`
+```bash
+git clone https://github.com/Suchi0012/CodeAlpha_Handwritten_Character_Recognition.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd CodeAlpha_Handwritten_Character_Recognition
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+  
 
 ## How to Run
 
