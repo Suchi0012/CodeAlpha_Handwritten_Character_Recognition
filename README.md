@@ -1,7 +1,5 @@
 # Handwritten Digit Recognition Using CNN
 
-### CodeAlpha Machine Learning Internship — Task 3
-
 ## Project Overview
 
 This project develops a Convolutional Neural Network (CNN) using TensorFlow and Keras to recognize handwritten digits (0–9) from images.
